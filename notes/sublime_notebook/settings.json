@@ -1,0 +1,18 @@
+{
+    "do_git_backup": false,
+    "git_push_interval_minutes": 1440,
+    "is_encrypted": false,
+    "last_git_push": 0,
+    "note_extensions": [
+        "txt",
+        "md"
+    ],
+    "private_folders": [
+        "*"
+    ],
+    "public_folders": [
+        "public",
+        "sublime_notebook"
+    ],
+    "version": 2.1
+}

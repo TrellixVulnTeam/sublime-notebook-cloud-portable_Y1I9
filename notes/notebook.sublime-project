@@ -1,0 +1,53 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "Start notes crypter",
+			"linux":
+			{
+				"shell_cmd": "gnome-terminal -e './manager.py; exec bash\"'"
+			},
+			"osx":
+			{
+				"shell_cmd": "open -a Terminal.app ${project_path}"
+			},
+			"windows":
+			{
+				"cmd":
+				[
+					"start",
+					"cmd",
+					"/C",
+					"_encrypt.bat"
+				],
+				"shell": true
+			},
+			"working_dir": "${project_path}"
+		}
+	],
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"_encrypt.bat",
+				"manager.py",
+				"SublimeNotebook*.zip",
+				"*.pyc",
+				"sublime_notebook/*.py"
+			],
+			"folder_exclude_patterns":
+			[
+				"thonny*",
+				"__pycache__",
+				".release",
+				"sublime_notebook/pyaes"
+			],
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"word_wrap": true
+	}
+}
