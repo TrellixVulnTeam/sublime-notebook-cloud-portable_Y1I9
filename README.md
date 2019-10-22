@@ -78,8 +78,8 @@ Put your notes in the `notes` directory.
 
 ## License
 | Project | License | Author |
+| ------- | ------- | ------ |
 | [SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) | [MIT License](https://github.com/aviaryan/SublimeNotebook/blob/master/LICENSE) | [aviaryan](https://github.com/aviaryan) |
 | [rclone](https://github.com/rclone/rclone) | [MIT License](https://rclone.org/licence/) | Nick Craig-Wood https://www.craig-wood.com/nick/ |
-
-| [thonny](https://github.com/thonny/thonny) | [MIT License](https://github.com/thonny/thonny/blob/master/LICENSE.txt) | [Aivar Annamaa](https://github.com/aivarannamaa)
+| [thonny](https://github.com/thonny/thonny) | [MIT License](https://github.com/thonny/thonny/blob/master/LICENSE.txt) | [Aivar Annamaa](https://github.com/aivarannamaa) |
 | This project | [MIT License](./LICENSE) | [rigwild](https://github.com/rigwild) |
