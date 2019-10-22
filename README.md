@@ -54,7 +54,7 @@ sublime_text/Data/Packages/User/Default (Windows).sublime-keymap
 File content
 ```json
 [
-  { "keys": ["ctrl+alt+b"], "command": "markdown_preview_select", "args": {"target": "browser", "parser":"markdown"} }
+  { "keys": ["ctrl+alt+b"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
 ]
 ```
 
